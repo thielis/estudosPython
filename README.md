@@ -1,2 +1,3 @@
 # estudosPython
-Estudos de Python
+Repositório dedicado a estudos de Python
+
