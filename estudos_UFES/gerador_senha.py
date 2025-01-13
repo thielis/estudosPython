@@ -1,17 +1,3 @@
-# import random
-# import string
-
-# def password_generator(password_length):
-#     str_caracters = string.ascii_letters  # Contém letras minúsculas e maiúsculas
-#     password = ''.join(random.choice(str_caracters) for _ in range(password_length))
-#     return password
-
-# # Solicita ao usuário o tamanho da senha
-# password_length = int(input("Digite o tamanho da senha: "))
-# password_created = password_generator(password_length)
-# print("Senha gerada:", password_created)
-
-
 import random
 import string
 
